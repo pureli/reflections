@@ -1,2 +1,7 @@
 Q.What happens when you initialize a repository? Why do you need to do it?
 To create a repository. To tell git this is a new repository.
+
+Q.How is the staging area different from the working directory and the repository? What value do you think it offers?
+It's temporayly space.
+1.To let repository know which files you revised.
+2.To make commit on each file. Because if make a commit from working directory to the repository, it only allows you to make one commit of all files.
