@@ -1,0 +1,2 @@
+Q.What happens when you initialize a repository? Why do you need to do it?
+To create a repository. To tell git this is a new repository.
