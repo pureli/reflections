@@ -16,3 +16,11 @@ Q.What are some situations when branches would be helpful in keeping your histor
 
 Q.How do the diagrams help you visualize the branch structure?
 To understand which branch I am using now.
+
+Q.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+There's becoming only one master branch which includes these two branches revisions.
+To understand those branches's relationship.
+
+Q.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+automatic merging:convenient.
+merges manually: can solve the conflict.
