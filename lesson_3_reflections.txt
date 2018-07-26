@@ -8,3 +8,6 @@ Q.Describe the differences between forks, clones, and branches. When would you u
 *forks: to copy file from other person's repository to my repository on GitHub.
 *clones: to copy file from GitHub to mine local computer.
 *branches: create another room for testing on local computer.
+
+Q.What is the benefit of having a copy of the last known state of the remote stored locally?
+When other people revise the file and push it to GitHub, you can know the difference between your revisions and other people's revisions from the latest copy which already stored locally .
