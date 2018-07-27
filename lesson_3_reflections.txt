@@ -14,3 +14,6 @@ When other people revise the file and push it to GitHub, you can know the differ
 
 Q.How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 To copy the entire file to the collaborator. Although it is convenient whithout doing a lot of command, but it is harder to collaborate to other people immediatly. And also without a good version control.
+
+Q.When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When the master is working online, like official website. If the other branch's function is not finished, it can be saved in the specific branch, and won't affect the master branch.
